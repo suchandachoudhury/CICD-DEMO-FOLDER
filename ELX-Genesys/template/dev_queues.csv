@@ -1,0 +1,2 @@
+Queue_Name,acw_timeout_ms,media_settings,Division,QueueFlow,skill_evaluation_method,Script,auto_answer,enable_transcript,whisper_prompt
+Terraform_test_queue,3000,"30,2000,0.8",UK,3. UK - Call Flow,BEST,Electrolux Inbound Script UK (R2),true,true,AEGWelcome
